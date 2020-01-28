@@ -10,7 +10,7 @@ Run the dataset.py`to your notebook it will create 17 folder with the name of ca
 
 Jupyter notebook file for main model. I have also saved the model and model weights.
 
-`image_similarity.ipynb`
+`similar_images.ipynb`
 
 
  To predict the given image categories and display similar images related to the same.
