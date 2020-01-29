@@ -3,7 +3,7 @@ Task: To build an image recognition model which is capable of identifying the pa
 
 `dataset.py`
 
-Run the dataset.py`to your notebook it will create 17 folder with the name of categories. Two folders named dataset_category and dataset_category_test for training and testing dataset. 
+Run the dataset.py`to your notebook it will create 17 folder with the name of categories.
 
 `model.ipynb `
 
